@@ -12,6 +12,9 @@ for k in argumentos[k]:
   else:			   #	2. O que el usuario, introduzca el intervalo por teclado.
     print "Introduzca el intervalo (n>0)"
     n=int(raw_input())
+    
+\* Aquí comienza la labor del programa*/
+//*************************************//
   if (n>=0):
     valor_pi= 3.1415926535897931159979634685441852
     sumatorio=0.0
