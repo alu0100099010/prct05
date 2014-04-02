@@ -13,7 +13,7 @@ for k in argumentos[k]:
     print "Introduzca el intervalo (n>0)"
     n=int(raw_input())
     
-\* Aquí comienza la labor del programa*/
+/* Aquí comienza la labor del programa*/
 //*************************************//
   if (n>=0):
     valor_pi= 3.1415926535897931159979634685441852
