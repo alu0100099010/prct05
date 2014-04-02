@@ -5,8 +5,8 @@ import sys
 argumentos =sys.argv[1:]
 
 print argumentos
-for k in argumentos[k]:
-  if (len(argumentos)==1):
+for k in argumentos[k]:     #	1. O que el propio programa lee directamente los argumentos que le pasamos por la consola.
+  if (len(argumentos)==1):  #ejemplo: $ python ejemplo.py 10 
     n=int(argumentos[k])
   
   else:			   #	2. O que el usuario, introduzca el intervalo por teclado.
