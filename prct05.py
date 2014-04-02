@@ -13,8 +13,8 @@ for k in argumentos[k]:     #	1. O que el propio programa lee directamente los a
     print "Introduzca el intervalo (n>0)"
     n=int(raw_input())
     
-/* Aquí comienza la labor del programa*/
-//*************************************//
+# Aquí comienza la labor del programa*/
+#*************************************//
   if (n>=0):
     valor_pi= 3.1415926535897931159979634685441852
     sumatorio=0.0
